@@ -1,0 +1,8 @@
+a. Apa yang terjadi saat poin 1 dilakukan? 
+Saat fork repository dilakukan, salinan penuh dari repository asli dibuat ke akun pengguna yang melakukan fork. Salinan ini memungkinkan pengguna untuk melakukan perubahan tanpa mempengaruhi repository asli, serta memudahkan kontribusi dengan cara mengajukan pull request ke repository asli.
+
+b. Apa tujuan membuat branch baru pada poin 5 dan 6? 
+kita membuat branch baru secara masing - masing pada poin 5 dan 6 agar  memungkinkan setiap anggota tim bekerja pada fitur atau perbaikan secara terpisah tanpa mengganggu kode utama (main branch), serta mempermudah penggabungan perubahan setelah selesai dan diuji.
+
+c. File apa yang berubah setelah poin 6 selesai dilakukan?
+File yang berubah adalah File Biodata.txt yang semulanya hanya berisi nama, setelah membuat branch baru dan commit changes, masing- masing nama anggota akan beserta dengan nim nya masing - masing
