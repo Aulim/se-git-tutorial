@@ -1,0 +1,3 @@
+a. Yang terjadi saat poin 1 terjadi adalah, melakukan cloning pada repository lain, dan dapat dilakukan kontrol penuh atas repository yang telah dikloning.
+b. pada poin 5 dilakukan pembuatan branch baru untuk menambahkan konten spesifik dari masing-masing anggota, perlu dilakukan branching agarteks yang terpisah dapat lebih terstruktur dan rapih sehingga terjadi perubhaan yang sistematis dan spesifik berdasarkan bagian masing-masing, dan ketika dilakukan merging dapat ditinjau validitas dan kesinambungan 
+c. file yang berubah adalah bidata.txt, maka akan terdapat nama - nim
