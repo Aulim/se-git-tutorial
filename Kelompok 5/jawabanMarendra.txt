@@ -1,0 +1,3 @@
+a. simpelnya meng-"clone" sebuah repository orang lain
+b. kita membuat branch baru agar dapat mengutak-atik file di dalam repository tanpa mempengaruhi branch utama 
+c. file biodata.txt berubah
