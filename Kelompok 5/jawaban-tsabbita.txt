@@ -1,0 +1,14 @@
+a. Secara keseluruhan, forking seperti meng-clone repository, memberikan fleksibilitas dan kontrol penuh atas salinan repositori, mendukung kolaborasi dan pengembangan proyek open-source secara lebih efisien.
+
+Memberikan :
+1. Salinan independent
+2. kontribusi
+3. eksperimen
+4. sinkronisasi
+
+b. 
+- Poin 5: Membuat branch baru add-nama-[nama kalian] bertujuan untuk memisahkan pekerjaan menambahkan nama-nama anggota kelompok ke dalam sebuah file teks dari pekerjaan lain. Ini memudahkan pengelolaan perubahan dan meminimalkan risiko konflik dengan perubahan lain yang mungkin dilakukan oleh anggota tim lainnya.
+- Poin 6: Membuat branch baru add-nim-[nama kalian] bertujuan untuk memisahkan pekerjaan penambahan NIM ke dalam file teks dari perubahan lainnya. Dengan cara ini, setiap perubahan bisa diuji dan diverifikasi secara terpisah sebelum digabungkan (merge) ke dalam branch utama.
+
+c.
+Setelah poin 6 selesai dilakukan, file teks yang berisi nama-nama anggota kelompok berubah. Pada file ini, setiap nama anggota akan diikuti oleh NIM mereka setelah perubahan di-merge ke branch utama.
