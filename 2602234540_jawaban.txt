@@ -1,0 +1,8 @@
+
+a. Fork repository adalah tindakan mengcopy repository yang di-fork ke repository pribadi
+
+b. Branch baru dibuat untuk memperlihatkan versi" berbeda dari development, pada poin 5 branch yang dibuat memasukkan text file yang berisi nama anggota pada folder.
+
+Pada poin 6, merge dilakukan untuk mengcopy isi branch lain ke branch saat ini.
+
+c. File yang berubah adalah 1.txt pada folder Kelompok-8
