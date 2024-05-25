@@ -1,0 +1,10 @@
+a. Apa yang terjadi saat poin 1 dilakukan?
+Saat poin 1 dilakukan (fork repositori), sebuah salinan repositori asli dibuat di akun GitHub Anda. Ini memungkinkan Anda untuk bekerja secara independen pada salinan tersebut tanpa memengaruhi repositori asli.
+
+b. Apa tujuan membuat branch baru pada poin 5 dan 6?
+Tujuan membuat branch baru pada poin 5 dan 6 adalah untuk:
+Mengisolasi Perubahan: Membuat branch baru memungkinkan kita untuk mengerjakan tugas tertentu (menambahkan nama dan NIM) secara terpisah dari pekerjaan lain yang mungkin sedang dilakukan di branch utama. Ini membantu menjaga branch utama tetap bersih dan stabil.
+Kolaborasi: Dengan membuat branch baru, setiap anggota kelompok dapat bekerja pada tugas masing-masing tanpa saling mengganggu. Setelah selesai, perubahan dapat digabungkan (merge) ke branch utama.
+
+c. File apa yang berubah setelah poin 6 selesai dilakukan?
+Setelah poin 6 selesai dilakukan, file nama_anggota.txt di dalam folder Kelompok [nomor kelompok] akan berubah. File ini akan berisi nama-nama anggota kelompok beserta NIM masing-masing, dipisahkan oleh spasi.
