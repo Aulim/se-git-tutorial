@@ -1,0 +1,5 @@
+a. Pembuatan copy repository pada akun GitHub pemilik yang mengefork copy ini termasuk file dan segala history commit dan merge
+
+b. Membuat branch baru bertujuan untuk memudahkan pengerjaan antar anggota tim dengan cara mengindependenkan pengerjaan individual yang dapat digabung pada akhirnya. Hal tersebut juga dapat digunakan dalam versioning atau rollback ke release sebelumnya.
+
+c. File nama anggota sekarang berisi nama anggota beserta NIM yang di spasi kan
