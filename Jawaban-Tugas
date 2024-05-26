@@ -1,0 +1,3 @@
+A.) Forking memungkinkan banyak orang untuk bekerja pada sebuah proyek secara paralel, membuat perubahan dan kontribusi mereka sendiri sebelum menggabungkannya kembali ke proyek asli.
+B.) Membuat branch baru memungkinkan Anda mengisolasi perubahan yang dilakukan (menambahkan NIM ke file nama anggota) dari branch utama (main atau data-[nama atau nomor kelompok]). Ini mencegah potensi konflik atau gangguan pada kode yang sudah stabil di branch utama.
+C.) Setelah poin 6 selesai dilakukan dan semua branch penghapusan telah digabungkan, file yang berubah adalah file yang dihapus. Dalam contoh ini, 1.txt, 2.txt, dan 3.txt akan dihapus dari repository.
