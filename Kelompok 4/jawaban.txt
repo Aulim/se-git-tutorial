@@ -1,0 +1,8 @@
+a. Apa yang terjadi saat poin 1 dilakukan?
+Fork membuat salinan repository baru yang independen dari repository asli ke dalam akun yang nge-fork.
+
+b. Apa tujuan membuat branch baru pada poin 5 dan 6?
+Supaya perubahan yang dilakukan setiap collaborator tidak mempengaruhi branch Utama dan mengontrol versi dari sebuah project.
+
+c. File apa yang berubah setelah poin 6 selesai dilakukan?
+File "biodata.txt" yang berubah karena tiap anggota menambahkan nim ke dalam file tersebut.
